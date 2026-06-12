@@ -1,0 +1,14 @@
+3.
+Write a short explanation (2-3 sentences each) describing the role of the CPU, RAM, and GPU in running a game like PUBG or Free Fire on a PC.
+
+= I) CPU: It means Control Processing Unit. it control game, calculations, and overall operating system performance, which helps the game or other application to run smoothly and faster.
+
+ii) RAM: RAM means Random Access Memory it helps to store temporary files or data for quick access, which reduce lag and improving performance 
+
+iii)GPU: Graphics processing unit it helps renders graphics and visual effects to make image and game quality great, and run smoother frame rates.
+
+
+4.
+Imagine you want to upgrade your PC to run the latest version of FIFA smoothly. List which hardware components you would consider upgrading and explain why for each.
+
+= If I want to run fifa on my pc first of all I will upgrade my CPU for better processing and performance. ii) RAM will be also upgrade which will be up to 16gb which help to game to run smoothly and reduce lag. iii) gpu will also upgrade which is to provide better graphics and smoother frame rate. iv) i will install a great cooling system for pc to not get over heat and keep pc stable. v)iwill improve SSD which speeds up game loading and performance. 
