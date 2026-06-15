@@ -1,0 +1,36 @@
+                                     DAILY TASK-3
+
+1.Create a comparison table listing the main differences between DDR3, DDR4, and DDR5 RAM, including speed, voltage, and typical use cases.
+
+=      
+Points	DDR3	DDR4	DDR5
+Year	2007	2014	2020
+Speed	800-2133 MT/s	1600-3200 MT/s	4800 MT/s +
+Data Transfer speed	Lower	Higher than DDR3	Highest among all
+Power consumption	High	Lower than DDR3	Lowest and more efficient
+Performance	For basic computing	For gaming and multitasking	For high end gaming, AI, professional workload
+
+2.Open your laptop or desktop (with power disconnected), locate the RAM slots, and take a clear photo of the installed RAM module. Reinstall the RAM module and verify that your system boots up successfully.<br><br><em><strong>Hint:</strong> Refer to your device manual or a trusted YouTube guide if unsure about RAM removal and installation steps.</em>.
+
+=
+
+
+
+
+
+3.List three key differences between HDD, SSD, and NVMe storage types, and for each, name one app or use case (from apps you use daily) that would benefit most from that storage type.
+
+=
+Points	HDD	SSD	NVMe 
+Speed	Slowest	Faster	Fastest
+Durability	Less durable 	more durable	most durable
+App	Google Drive 	Google Chrome	Adobe Premiere pro
+
+
+4.Remove the storage drive (HDD or SSD) from your system, take a photo of the connector type (SATA, M.2, or NVMe), and reinstall the drive. Confirm that your device recognizes the storage after reassembly.<br><br><em><strong>Constraint:</strong> Only perform this task if you have access to a device you are allowed to open. If not, find and share a YouTube video link showing the process for your laptop/PC model.</em>
+
+=
+
+
+
+
